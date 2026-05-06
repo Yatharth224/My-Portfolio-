@@ -11,7 +11,7 @@ const projects = [
     image: "/images/whatsnew.png",
   },
   {
-    title: "E-Commerce Web Application",
+    title: "Bulk Transaction Engine",
     category: "Backend Platform",
     tools: "Django, DRF, Redis, Celery, MySQL",
     image: "/images/radix.png",
